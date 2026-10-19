@@ -1,0 +1,23 @@
+[
+  {
+    "department": "ECE",
+    "university": "Replace with your university",
+    "regulation": "Replace with your regulation",
+    "semester": 3,
+    "unit": 1,
+    "subject_code": "REPLACE_WITH_OFFICIAL_CODE",
+    "subject": "Electronic Devices",
+    "topic": "Your verified topic",
+    "explanation_en": "Replace this with your own or licensed notes before importing.",
+    "explanation_thanglish": "",
+    "worked_example": "",
+    "formula": "",
+    "common_mistake": "",
+    "source": {
+      "title": "Your lecture notes",
+      "page": 1,
+      "url": null,
+      "license": "Replace with actual permission or license"
+    }
+  }
+]

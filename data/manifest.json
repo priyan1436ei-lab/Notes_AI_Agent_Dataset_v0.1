@@ -1,0 +1,20 @@
+{
+  "unique_concepts": 54,
+  "derived_instruction_examples": 108,
+  "departments": [
+    "AI",
+    "CIVIL",
+    "COMMON",
+    "CSBS",
+    "CSE",
+    "ECE",
+    "EEE",
+    "IT",
+    "MECH"
+  ],
+  "official_syllabus_coverage": "NOT VERIFIED; no university/regulation assigned",
+  "synthetic": true,
+  "reviewed_records": 0,
+  "license": "CC0-1.0 for starter content only",
+  "sha256": "fc0ea01b585a079762e478fd8f863dcef58711b2678b2921d3699a2bd7089d26"
+}

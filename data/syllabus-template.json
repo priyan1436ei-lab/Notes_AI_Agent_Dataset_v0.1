@@ -1,0 +1,12 @@
+[
+  {
+    "university": "REPLACE",
+    "regulation": "REPLACE",
+    "department": "ECE",
+    "semester": 3,
+    "subject_code": "REPLACE",
+    "subject": "REPLACE",
+    "unit": 1,
+    "topic": "REPLACE_WITH_OFFICIAL_TOPIC"
+  }
+]
